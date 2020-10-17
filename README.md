@@ -1,6 +1,10 @@
-# cardplay
+# CardPlay
 
-A new Flutter project.
+A simple Single Player Card Game with rules similar to Poker.Created using Flutter.
+
+Sample Screenshot:
+
+![](ScreenShots/CardPlayScreenShot1.jpeg)
 
 ## Getting Started
 
